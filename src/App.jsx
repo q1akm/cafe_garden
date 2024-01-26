@@ -3,11 +3,10 @@ import { Hero,
   Contact,
   Offer,
   Reviews,
-  Menu} from './sections/Index'
-
-  import Navbar from './components/Navbar'
-  import Footer from './components/Footer'
-  import Visitors from './components/Visitors'
+  Menu,
+  Navbar,
+  Footer,
+  Visitors} from './components/Index'
 
 const App = () => 
    (

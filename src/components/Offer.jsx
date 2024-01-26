@@ -10,15 +10,17 @@ const Offer = () =>
           <h1 className='heading1 max-md:text-2xl'>Our Best Offers ( This Week )</h1>
       </div>
          <div className='max-md:flex-col text-white mt-16 flex justify-around text-xl gap-10 items-center font-serif'>
+         
            {offers.map((offer) => (
-            <div key={offer}
+            <li key={offer.id}
             className="flex flex-col gap-3 items-center">
                <img src={offer.img} alt={offer.alt} 
                className="w-[23rem]"/>
                <h1 className="f-roboto text-2xl font-bold">{offer.tilte}</h1>
                <p className="f-cabin text-orange-400">{offer.price}</p>
-            </div>
+            </li>
            ))}
+         
          </div>
     </section>
   )

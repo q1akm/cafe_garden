@@ -1,6 +1,5 @@
 import AboutImg from '../assets/about-img.png'
-import Button from '../components/Button'
-import { CgScrollV } from "react-icons/cg";
+import Button from './Button'
 
 
 const AboutUs = () => 
