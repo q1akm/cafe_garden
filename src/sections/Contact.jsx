@@ -14,30 +14,30 @@ const Contact = () => {
        </div>
           <div className="gap-10  flex justify-center ">
             <div className="text-white flex flex-col w-full">
-              <label htmlFor="first-name"
-              className="text-xl font-mono">Name</label>
+              <h1
+              className="text-xl font-mono">Name</h1>
               <input type="text"
               className="p-2  rounded text-black f-roboto"/>
             </div>
           </div>
           <div className="gap-10  flex justify-center  max-lg:flex-col">
             <div className="text-white flex flex-col">
-              <label htmlFor="email"
-              className="text-xl font-mono">Email Address</label>
+              <h1 
+              className="text-xl font-mono">Email Address</h1>
               <input type="email"
               className="p-2 rounded text-black f-roboto"/>
             </div>
             <div className="text-white flex flex-col">
-            <label htmlFor="phone"
-              className="text-xl font-mono">Phone Number</label>
+            <h1
+              className="text-xl font-mono">Phone Number</h1>
               <input type="text"
               className="p-2 rounded text-black f-roboto"/>
             </div>
           
           </div>
           <div className="text-white flex flex-col ">
-              <label htmlFor="first-name"
-              className="text-xl font-mono">Message</label>
+              <h1
+              className="text-xl font-mono">Message</h1>
               <textarea name="message" id="" 
                 className=" h-36 p-2 rounded text-black f-roboto"
               cols="30" rows="10"></textarea>
