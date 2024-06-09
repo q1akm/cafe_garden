@@ -2,7 +2,7 @@
 
 Responsive Design: clear and easy for every device 
 
-Live Demo: https://cafe-garden.netlify.app/
+Live Demo: https://cafegarden.netlify.app/
 
 The design of the website is a minimalist design.It's easy to use for clients. You can freely use the code from this website to learn more about React and tailwind.
 
