@@ -1,6 +1,6 @@
 # This website is built with Vite+React and Tailwindcss 
 
-esponsive Design: Clear and Accessible on Every Device
+responsive Design: Clear and Accessible on Every Device
 
 Live Demo: https://cafegarden.netlify.app/
 
