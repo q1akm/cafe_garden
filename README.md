@@ -1,7 +1,5 @@
 # Cafe Garden
 
-responsive Design: Clear and Accessible on Every Device
-
 Live Demo: https://cafegarden.netlify.app/
 
 Our website features a minimalist design, ensuring an intuitive and user-friendly experience for clients. Feel free to explore and use the code to deepen your understanding of React and Tailwind CSS.
