@@ -1,4 +1,4 @@
-# This website is built with Vite+React and Tailwindcss 
+# Cafe Garden
 
 responsive Design: Clear and Accessible on Every Device
 
