@@ -1,4 +1,4 @@
-import AboutImg from '../assets/about-img.png'
+import AboutImg from '../assets/about-img.webp'
 import Button from './Button'
 
 

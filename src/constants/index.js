@@ -7,9 +7,9 @@ export const visitors = [
 ];
 
 export  const offers = [
-    {id:"1" ,img: "./capu.png",alt: "capu",tilte: "Cappuccino",price: "$6.00"},
-    {id:"2" ,img: "./latte.png",alt: "latte",tilte: "Latte",price: "$5.00"},
-    {id:"3" ,img: "./americano.png",alt: "americano",tilte: "Americano",price: "$3.50"}
+    {id:"1" ,img: "./capu.webp",alt: "capu",tilte: "Cappuccino",price: "$6.00"},
+    {id:"2" ,img: "./latte.webp",alt: "latte",tilte: "Latte",price: "$5.00"},
+    {id:"3" ,img: "./americano.webp",alt: "americano",tilte: "Americano",price: "$3.50"}
 
 ]
 

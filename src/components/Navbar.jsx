@@ -1,4 +1,4 @@
-import Logo from '../assets/logo.png'
+import Logo from '../assets/logo.webp'
 import { GiHamburgerMenu } from "react-icons/gi";
 import { FaRegUserCircle } from "react-icons/fa";
 import { navLinks } from '../constants';

@@ -1,4 +1,4 @@
-import menuImg from '../assets/menu-img.png'
+import menuImg from '../assets/menu-img.webp'
 import Button from '../components/Button'
 const Menu = () => 
    (

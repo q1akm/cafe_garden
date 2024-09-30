@@ -1,4 +1,4 @@
-import shopImg from '../assets/shop.png'
+import shopImg from '../assets/shop.webp'
 const Contact = () => {
   return (
     <section id='contact' 
